@@ -5,12 +5,9 @@
 ---
 
 ## :information_desk_person:  About Me
-- I am a Frontend developer with knowledge in all popular frameworks.
-- Currently available for freelance and open-source projects.
-- My programming experience is summarized in Table below.
-- Currently I am a front-end (Vue) developer in ecosotag GmbH
-- I’m looking to expand my workspace with new projects.
-- Contact me through my <a href="mailto:elbay.malik@gmail.com">Email</a> address for further details.
+- I am a Senior Fullstack developer.
+- Available for freelance and open-source projects.
+- Check my portfolio for more information: https://elbaymalik.com
 ---
 ## :wrench:  Skills and Tools
 <div align="center">
