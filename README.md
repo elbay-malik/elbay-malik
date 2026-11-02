@@ -144,25 +144,3 @@
     </tr>
   </table>
 </div>
-
----
-
-## :computer:  My GitHub Stats
-<div align="center">
-    <!--img height="180em" src="profile-3d-contrib/pie_lang_only.svg"-->
-    <!--img height="200em" src="profile-3d-contrib/radar_contrib_only.svg"-->
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eleoxda&theme=github"/>
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eleoxda"/>
-</div>
-<div align="center">
-    <!--img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eleoxda"-->
-</div>
-<!--div align="center"-->
-    <!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
-<!--/div-->
-<div align="center">
-    <img height="200em" src="https://streak-stats.demolab.com/?user=EleoXDA&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&hide_progress=true&layout=compact&hide=c%2B%2B,CMake,C"/>
-</div>
-<div align="center">
-</div>
