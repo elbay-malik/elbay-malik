@@ -1,143 +1,44 @@
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=EleoXDA&style=for-the-badge">
-</div>
+## Elbay Malik · Senior Fullstack Developer, Berlin
 
----
+I've built production web software since 2018, in Angular, Vue, React, TypeScript, Java and Node.js. At my current job I lead technical decisions, code reviews and planning for the developers who report to me.
 
-## :information_desk_person:  About Me
-- I am a Senior Fullstack developer.
-- Available for freelance and open-source projects.
-- Check my portfolio for more information: https://elbaymalik.com
----
-## :wrench:  Skills and Tools
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th colspan="7">Languages & Frameworks</th>
-      </tr>
-    </thead>
-    <tr>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></td>
-     <td align="center" width=110><img height=70 src="images/nuxt.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></td>
-     <td align="center" width=110><img height=60 src="images/next-js.svg"/></td>
-     <td align="center" width=110><img height=60 src="images/Angular.png"/></td>
-    </tr>
-    <tr>
-     <td align="center" width=110>JavaScript</td>
-     <td align="center" width=110>Typescript</td>
-     <td align="center" width=110>Vue. JS</td>
-     <td align="center" width=110>Nuxt</td>
-     <td align="center" width=110>React</td>
-     <td align="center" width=110>Next</td>
-     <td align="center" width=110>Angular</td>
-    </tr>
-    <tr>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></td>
-    </tr>
-    <tr>
-     <td align="center" width=110>Node. JS</td>
-     <td align="center" width=110>Dart</td>
-     <td align="center" width=110>Flutter</td>
-     <td align="center" width=110>PostgreSQL</td>
-     <td align="center" width=110>Ruby</td>
-     <td align="center" width=110>Rails</td>
-     <td align="center" width=110>Kotlin</td>
-    </tr>
-  </table>
-   <table>
-     <thead>
-      <tr>
-       <th colspan="7">Tools</th>
-      </tr>
-     </thead>
-     <tr>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
-      <td align="center" width=110><img height=70 src="images/github.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/></td>
-     </tr>
-     <tr>
-      <td align="center" width=110>WebPack</td>
-      <td align="center" width=110>Heroku</td>
-      <td align="center" width=110>Docker</td>
-      <td align="center" width=110>Figma</td>
-      <td align="center" width=110>Git</td>
-      <td align="center" width=110>GitHub</td>
-      <td align="center" width=110>GitLab</td>
-     </tr>
-     <tr>
-       <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
-      <td align="center" width=110><img height=70 src="images/codepen.svg"/></td>
-     </tr>
-     <tr>
-      <td align="center" width=110>Android Studio</td>
-      <td align="center" width=110>IntelliJ</td>
-      <td align="center" width=110>VSCode</td>
-      <td align="center" width=110>Visual Studio</td>
-      <td align="center" width=110>Yarn</td>
-      <td align="center" width=110>Google Cloud</td>
-      <td align="center" width=110>CodePen</td>
-     </tr>
-     <tr>
-      <td align="center" width=110><img height=60 src="images/gradle.svg"/></td>
-      <td align="center" width=110><img height=70 src="images/jenkins.svg"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></td>
-      <td align="center" width=110><img height=60 src="images/tdd.png"/></td>
-      <td align="center" width=110><img height=70 src="images/scrum.svg"/></td>
-      <td align="center" width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119213-9a958b20-d3ba-460e-935f-dccb6a3de7e6.png"/></td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></td>
-     </tr>
-     <tr>
-      <td align="center" width=110>Gradle</td>
-      <td align="center" width=110>Jenkins</td>
-      <td align="center" width=110>JetBrains</td>
-      <td align="center" width=110>T.D.D.</td>
-      <td align="center" width=110>Scrum</td>
-      <td align="center" width=110>Kanban</td>
-      <td align="center" width=110>Jira</td>
-     </tr>
-  </table>
-  <table>
-    <thead>
-      <tr>
-        <th colspan="7">Operating Systems</th>
-      </tr>
-    </thead>
-    <tr>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></td>
-     <td align="center" width=110><img height=70 src="images/mac.svg"/>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/></td>
-     <td align="center" width=110><img height=60 src="images/ios.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></td>
-     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></td>
-    </tr>
-    <tr>
-     <td align="center" width=110>Windows</td>
-     <td align="center" width=110>Linux</td>
-     <td align="center" width=110>MacOS</td>
-     <td align="center" width=110>Android</td>
-     <td align="center" width=110>iOS</td>
-     <td align="center" width=110>Ubuntu</td>
-     <td align="center" width=110>ChromeOS</td>
-    </tr>
-  </table>
-</div>
+**Open to:** senior fullstack, tech lead or product engineer roles · on-site in Berlin, hybrid or remote<br>
+**Languages:** English and German (C1) · **Work permit:** German residence and work permit
+
+[Portfolio](https://elbaymalik.com) · [CV](https://elbaymalik.com/cv/) · [LinkedIn](https://www.linkedin.com/in/elbay-malik/) · [Contact form](https://elbaymalik.com/contact/) · [elbay.malik@gmail.com](mailto:elbay.malik@gmail.com)
+
+### Now: KomRe AG
+
+Senior Fullstack Developer since March 2025, working across web, backend and Android.
+
+- **Full-stack modules** in Angular and Java/Play with MySQL
+- **Shared component library** used by both the Angular and the Android apps
+- **UI overhaul** of the Angular and Android apps; I made every decision on it, on web and on Android
+- **Android 6 → 15** migration of the Android app
+- **Angular 10 → 19**, migrated step by step
+
+#### Before KomRe
+
+| Where | What I did |
+|---|---|
+| [E-commerce platform](https://elbaymalik.com/work/design-system-checkout/) | Design system and checkout |
+| [E-learning company](https://elbaymalik.com/work/elearning-angular/) | A full-stack year: Node.js API and Angular web app |
+| [Friedrich-Schiller-Universität Jena](https://elbaymalik.com/work/uni-jena-vue3/) | Led the Vue 2 → 3 migration strategy for nine institute websites; JS bundle about 40% smaller |
+| [Digital Dignity](https://elbaymalik.com/work/digital-dignity/) (volunteer) | React and Next.js rebuild of a privacy platform |
+
+I've introduced or rebuilt test setups at three jobs (Cypress, Jest, Vitest), with Docker and GitHub Actions in CI.
+
+### Personal builds
+
+| Project | What it is | Stack |
+|---|---|---|
+| [SyncTicket](https://syncticket.elbaymalik.com) | Local-first issue tracker. A 10,000-issue list renders in 33 ms instead of 5,019 ms (measured locally) | Svelte 5, Yjs CRDT, Durable Objects |
+| [Atlas Admin Shell](https://atlas.elbaymalik.com) | Microfrontend admin console on mock data; three separately deployed apps are loaded at runtime | Angular 21 (zoneless), Native Federation, Nx |
+
+**LLM systems**:
+
+| Project | What it is | Stack |
+|---|---|---|
+| [TruthBase](https://truthbase.elbaymalik.com) | RAG over PDFs. Each citation opens the PDF at the highlighted passage; a golden-set retrieval check runs in CI | Nuxt 4, Postgres pgvector, AI SDK |
+| [DevSprint Copilot](https://devsprint.elbaymalik.com) | Tool-loop agent on a mock sprint board. Every write the agent proposes waits for a signed, single-use approval | Vue 3, Hono, MCP |
+| [MeetMind](https://meetmind.elbaymalik.com) | Meeting video → timestamped transcript, cited notes and Q&A, with the audio extracted in the browser. Still in progress | Nuxt, ffmpeg.wasm, Groq |
