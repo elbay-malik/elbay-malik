@@ -23,7 +23,7 @@ Senior Fullstack Developer since March 2025, working across web, backend and And
 |---|---|
 | [E-commerce platform](https://elbaymalik.com/work/design-system-checkout/) | Design system and checkout |
 | [E-learning company](https://elbaymalik.com/work/elearning-angular/) | A full-stack year: Node.js API and Angular web app |
-| [Friedrich-Schiller-Universität Jena](https://elbaymalik.com/work/uni-jena-vue3/) | Led the Vue 2 → 3 migration strategy for nine institute websites; JS bundle about 40% smaller |
+| [Friedrich-Schiller-Universität Jena](https://elbaymalik.com/work/uni-jena-vue3/) | Led the Vue 2 → 3 migration; JS bundle about 40% smaller |
 | [Digital Dignity](https://elbaymalik.com/work/digital-dignity/) (volunteer) | React and Next.js rebuild of a privacy platform |
 
 I've introduced or rebuilt test setups at three jobs (Cypress, Jest, Vitest), with Docker and GitHub Actions in CI.
