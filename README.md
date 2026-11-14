@@ -30,6 +30,8 @@ I've introduced or rebuilt test setups at three jobs (Cypress, Jest, Vitest), wi
 
 ### Personal builds
 
+My work code lives in my employers' private repositories. The public repos here are my personal builds.
+
 | Project | What it is | Stack |
 |---|---|---|
 | [SyncTicket](https://syncticket.elbaymalik.com) | Local-first issue tracker. A 10,000-issue list renders in 33 ms instead of 5,019 ms (measured locally) | Svelte 5, Yjs CRDT, Durable Objects |
